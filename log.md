@@ -17,10 +17,14 @@ I'm tired!!
 **Link to work:**
 https://github.com/KingPra/fylo
 
-### Day 2: 10/09/2018
+### Day 2: 10/09/2018 4hrs
 
 **Today's Progress:**
+Working on section 2 of Fylo. Cleaning up Sass structure using semantics from "The Sass Way"
+reference: http://thesassway.com/beginner/how-to-structure-a-sass-project
 
 **Thoughts:**
+I feel pretty good about today. Feeling more solid on project file structures. Plan on using this as a future template.
 
 **Link to work:**
+https://github.com/KingPra/fylo
