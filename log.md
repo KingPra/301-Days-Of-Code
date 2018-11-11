@@ -28,3 +28,14 @@ I feel pretty good about today. Feeling more solid on project file structures. P
 
 **Link to work:**
 https://github.com/KingPra/fylo
+
+### Day 3: 10/10/2018 3hrs
+
+**Today's Progress:**
+Wrapping up mobile view for Fylo. Adjust color of some svg files.
+
+**Thoughts:**
+2 cups of coffee!
+
+**Link to work:**
+https://github.com/KingPra/fylo
