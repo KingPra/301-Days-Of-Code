@@ -40,13 +40,24 @@ Wrapping up mobile view for Fylo. Adjust color of some svg files.
 **Link to work:**
 https://github.com/KingPra/fylo
 
-### Day 3: 10/11/2018 5hrs
+### Day 4: 10/11/2018 5hrs
 
 **Today's Progress:**
 Working on desktop view for Fylo. Applying breakpoints and mixins.
 
 **Thoughts:**
 Work flow feels more solid! Note to self- less drinking and come home earlier!!
+
+**Link to work:**
+https://github.com/KingPra/fylo
+
+### Day 5: 10/12/2018 6hrs
+
+**Today's Progress:**
+converting some of the classes to global units for css, cleaning up some files and doing some more reading on basic css.
+
+**Thoughts:**
+Enjoying not rushing through the project and taking my time to read up on different design patterns.
 
 **Link to work:**
 https://github.com/KingPra/fylo
