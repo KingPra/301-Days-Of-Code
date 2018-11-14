@@ -61,3 +61,14 @@ Enjoying not rushing through the project and taking my time to read up on differ
 
 **Link to work:**
 https://github.com/KingPra/fylo
+
+### Day 7: 10/13/2018 1hr
+
+**Today's Progress:**
+Adding pages for links
+
+**Thoughts:**
+Short on time but managed to get an hour in.
+
+**Link to work:**
+https://github.com/KingPra/fylo
