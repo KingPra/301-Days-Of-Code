@@ -72,3 +72,14 @@ Short on time but managed to get an hour in.
 
 **Link to work:**
 https://github.com/KingPra/fylo
+
+### Day 8: 10/14/2018 4hrs
+
+**Today's Progress:**
+Finished up email section, login section and started team section. Added some functionality using js to do a quick validation check on input fields to make sure they're not empty when submitting form.
+
+**Thoughts:**
+slow start to the day but got a decent amount done.
+
+**Link to work:**
+https://github.com/KingPra/fylo
