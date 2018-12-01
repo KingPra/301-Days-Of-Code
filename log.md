@@ -105,3 +105,15 @@ Lots of refreshers needed. Working with Fetch() and .then()
 
 **Link to work:**
 https://github.com/KingPra/fylo
+
+### Day 10: 10/30/2018 2hrs
+
+**Today's Progress:**  
+Still working on team section, added job titles using js modules and some scss
+
+**Thoughts:**
+Lots of refreshers needed. A whooooole lot!
+Back from Caribbean cruise. Brain is still on vacation mode and body is still suffering from the partying :'(
+
+**Link to work:**
+https://github.com/KingPra/fylo
