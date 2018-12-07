@@ -128,3 +128,24 @@ got a little bit of time in today woohoo. Having alignment issues.
 
 **Link to work:**
 https://github.com/KingPra/fylo
+
+### Day 12: 12/3/2018 2hrs
+
+**Today's Progress:**  
+wrapped up team section and added nav links
+
+**Thoughts:**
+
+**Link to work:**
+https://github.com/KingPra/fylo
+
+### Day 13: 12/6/2018 2hrs
+
+**Today's Progress:**  
+I believe fylo is now functional...and complete! Ran into issues trying to use js native modules. Also ran into issues with 'onclick' due to using modules. resolved both issues today (its been at least a week)
+
+**Thoughts:**
+Spent some time to do some reading on modules. Learned a lot from troubleshooting these errors. Project is LIVE finally woohoo!
+
+**Link to work:**
+https://github.com/KingPra/fylo
