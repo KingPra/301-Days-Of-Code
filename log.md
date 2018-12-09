@@ -129,7 +129,7 @@ got a little bit of time in today woohoo. Having alignment issues.
 **Link to work:**
 https://github.com/KingPra/fylo
 
-### Day 12: 12/3/2018 2hrs
+### Day 12: 12/3/2018 4hrs
 
 **Today's Progress:**  
 wrapped up team section and added nav links
@@ -139,7 +139,7 @@ wrapped up team section and added nav links
 **Link to work:**
 https://github.com/KingPra/fylo
 
-### Day 13: 12/6/2018 2hrs
+### Day 13: 12/6/2018 4hrs
 
 **Today's Progress:**  
 I believe fylo is now functional...and complete! Ran into issues trying to use js native modules. Also ran into issues with 'onclick' due to using modules. resolved both issues today (its been at least a week)
@@ -149,3 +149,25 @@ Spent some time to do some reading on modules. Learned a lot from troubleshootin
 
 **Link to work:**
 https://github.com/KingPra/fylo
+
+### Day 14: 12/7/2018 2hrs
+
+**Today's Progress:**  
+Spent some time on stackoverflow looking for issues to solve.
+
+**Thoughts:**
+learned some new ideas from reading through issues and comments.
+
+**Link to work:**
+stackoverflow
+
+### Day 15: 12/8/2018 1hrs
+
+**Today's Progress:**  
+Worked on some kata's on codewars.com and job searched.
+
+**Thoughts:**
+Pretty tired today, sleep was rough.
+
+**Link to work:**
+indeed.com, cl
