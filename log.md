@@ -171,3 +171,13 @@ Pretty tired today, sleep was rough.
 
 **Link to work:**
 indeed.com, cl
+
+### Day 16: 12/8/2018 3hrs
+
+**Today's Progress:**  
+Not much progress, looking at different concatenation tools. Trying to figure out how to use terner in gulp.
+
+**Thoughts:**
+Soooo many build tools. terner is really confusing and uglify stopped working for some odd reason.
+
+## **Link to work:**
