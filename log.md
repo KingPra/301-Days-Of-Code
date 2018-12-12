@@ -172,7 +172,7 @@ Pretty tired today, sleep was rough.
 **Link to work:**
 indeed.com, cl
 
-### Day 16: 12/8/2018 3hrs
+### Day 16: 12/9/2018 3hrs
 
 **Today's Progress:**  
 Not much progress, looking at different concatenation tools. Trying to figure out how to use terner in gulp.
@@ -181,3 +181,27 @@ Not much progress, looking at different concatenation tools. Trying to figure ou
 Soooo many build tools. terner is really confusing and uglify stopped working for some odd reason.
 
 ## **Link to work:**
+
+### Day 17: 12/10/2018 1hr
+
+**Today's Progress:**  
+Looking into backend languages,
+
+**Thoughts:**
+Nodejs and Mongodb maybe?
+
+## **Link to work:**
+
+-
+
+### Day 18: 12/11/2018 30min
+
+**Today's Progress:**  
+Starting tutorial on MERN stack
+
+**Thoughts:**
+super tired but excited to get this going
+
+## **Link to work:**
+
+-
