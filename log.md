@@ -194,7 +194,7 @@ Nodejs and Mongodb maybe?
 
 -
 
-### Day 18: 12/12/2018 30min
+### Day 18: 12/11/2018 30min
 
 **Today's Progress:**  
 Starting tutorial on MERN stack
@@ -206,13 +206,24 @@ super tired but excited to get this going
 
 -
 
-### Day 19: 12/13/2018 30min
+### Day 19: 12/12/2018 2hrs
+
+**Today's Progress:**  
+continueing MERN tutorial.
+
+## **Thoughts:**
+
+## **Link to work:**
+
+-
+
+### Day 20: 12/13/2018 3hrs
 
 **Today's Progress:**  
 continueing MERN tutorial.
 
 **Thoughts:**
-Current tutorial is super confusing. Looking for a new tutorial to continue learning MERN stack along with graphql
+Current tutorial is super confusing, mainly with graphql troubleshooting. Looking for a new tutorial to continue learning MERN stack along with graphql
 
 ## **Link to work:**
 
