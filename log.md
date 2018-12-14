@@ -194,13 +194,25 @@ Nodejs and Mongodb maybe?
 
 -
 
-### Day 18: 12/11/2018 30min
+### Day 18: 12/12/2018 30min
 
 **Today's Progress:**  
 Starting tutorial on MERN stack
 
 **Thoughts:**
 super tired but excited to get this going
+
+## **Link to work:**
+
+-
+
+### Day 19: 12/13/2018 30min
+
+**Today's Progress:**  
+continueing MERN tutorial.
+
+**Thoughts:**
+Current tutorial is super confusing. Looking for a new tutorial to continue learning MERN stack along with graphql
 
 ## **Link to work:**
 
