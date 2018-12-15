@@ -228,3 +228,15 @@ Current tutorial is super confusing, mainly with graphql troubleshooting. Lookin
 ## **Link to work:**
 
 -
+
+### Day 21: 12/14/2018 2hrs
+
+**Today's Progress:**  
+starting tutorial on node.js
+
+**Thoughts:**
+stuck on getting 'data' listener to kick on. request.on('data', some function)
+
+## **Link to work:**
+
+-
