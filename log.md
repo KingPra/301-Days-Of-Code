@@ -240,3 +240,15 @@ stuck on getting 'data' listener to kick on. request.on('data', some function)
 ## **Link to work:**
 
 -
+
+### Day 22: 12/17/2018 30min
+
+**Today's Progress:**  
+continue tutorial on node.js
+
+**Thoughts:**
+Starting a new tutorial on node.js.
+
+## **Link to work:**
+
+-
