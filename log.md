@@ -252,3 +252,15 @@ Starting a new tutorial on node.js.
 ## **Link to work:**
 
 -
+
+### Day 23: 12/22/2018 4hrs
+
+**Today's Progress:**  
+worked on a prototype for nail shop in figma. Also reading up on graphql.
+
+**Thoughts:**
+Finally found a tutorial that makes sense to me. Waiting on feedback on the prototype.
+
+## **Link to work:**
+
+https://www.figma.com/proto/eDWU5N9psLH4zPvg5Am2hyve/Happy-Nail?node-id=2%3A669&viewport=508%2C583%2C0.644374&scaling=scale-down
